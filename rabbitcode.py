@@ -1,6 +1,8 @@
 import pygame
 import random
 import time
+import pandas
+import numpy
 
 pygame.init()
 
